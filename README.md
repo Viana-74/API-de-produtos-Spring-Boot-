@@ -60,4 +60,6 @@ src/main/java/br/com/xammp
 ├── model        → representa os dados da aplicação (entidade Produto)
 └── repository   → realiza o acesso aos dados persistidos (JPA)
 ```
-
+====================================
+README GERADO PELO CLAUDE.IA
+README REVISADO POR VIANA-74
