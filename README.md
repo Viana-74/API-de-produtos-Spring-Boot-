@@ -17,7 +17,7 @@ A aula original construiu uma API com apenas duas operações (cadastrar e lista
 - Spring Web
 - Spring Data JPA (Hibernate como ORM)
 - MySQL (via XAMPP)
-- Postman Local (para testes manuais das requisições)
+- Postman Local (para testes manuais das requisições do banco de dados)
 
 ## Pré-requisitos para rodar o projeto
 
