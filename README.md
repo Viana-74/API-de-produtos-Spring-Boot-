@@ -34,7 +34,7 @@ spring.datasource.password=
 
 4. Executar a aplicação (`Aula4Application.java` → Run As → Spring Boot App).
 5. A API ficará disponível em `http://localhost:8080/produtos`.
-6. Utilizar o Postman para testes para manipulação de dados.
+6. Utilizar o Postman para testes de manipulação de dados.
 
 ## Testando com o Postman
 
